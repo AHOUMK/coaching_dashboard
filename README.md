@@ -1,11 +1,11 @@
 # coaching_dashboard
 Driving Excellence in Customer Relations Through Data-Driven Coaching 
 Introduction
-	Project overview: 
+#Project overview: 
 This project aims to develop a predictive model that helps managers quickly identify performance trends among advisors based on key performance indicators (KPIs). The model will classify advisor performance levels and provide personalized coaching recommendations based on their strengths and improvements aeras.
-	Problem & Motivation:
+#Problem & Motivation:
 As a Customer Relations Advisor, I am evaluated on various KPIs like Average Handling Time, Schedule Adherence, After Chat Work, and more. I noticed that while we track these metrics, there is no predictive system to proactively support advisors before performance issues occur. This inspired me to create a predictive coaching model using data analysis. 
-	Why this matters:
+#Why this matters:
 Currently managers must manually analyze multiple KPIs and evaluation scores to determine coaching needs.
 This process is: 
 	Time-consuming
