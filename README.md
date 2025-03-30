@@ -2,7 +2,7 @@
 Driving Excellence in Customer Relations Through Data-Driven Coaching 
 
 ## Problem and Motivation 
-A Customer Relations Advisor is evaluated on various KPIs like Average Handling Time, Schedule Adherence, After Chat Work, After Call Work, and more. I noticed that while we track these metrics, there is no predictive system to proactively support advisors before performance issues occur. This inspired me to create a predictive coaching model using data analysis. 
+A Customer Relations Advisor is evaluated on various KPIs like Average Handling Time, Schedule Adherence, After Chat Work, After Call Work, and more. I noticed that while we track these metrics, there is no predictive system to proactively support advisors before performance issues occur. The currenmt manual KPIs analysis process is time consuming for team managers, reactive (because issues are only addressed after poor performamce) and inconsistent as some managers may interpret some KPIs differently than others.This inspired me to create a predictive coaching model using data analysis. 
 
 ## Expected impact 
 •	Innovation : Bringing AI-driven decision-making into team performance management 
